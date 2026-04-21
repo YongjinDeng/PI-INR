@@ -4,12 +4,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-Official PyTorch implementation of the framework proposed in the paper:  
-**"Physics-Geometry Fusion with Uncertainty-Aware Early Warning for Dosimetric Decay in Adaptive Radiotherapy via Implicit Neural Representations"**  
-*(Submitted to Medical Image Analysis, 2026)*
-
----
-
 ## Overview
 
 We propose a novel, zero-dose-computation framework (PI-INR) for real-time dosimetric decay warning in Adaptive Radiotherapy (ART). By bridging Riemannian geometry, Lie derivatives, and Evidential Deep Learning (EDL), this framework provides a highly interpretable Red-Yellow-Green clinical triage system in under 8 seconds per patient, avoiding the heavy computational burden of traditional Deformable Dose Accumulation (DDA).
